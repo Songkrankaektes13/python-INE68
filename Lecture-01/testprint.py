@@ -8,4 +8,7 @@ print('/\\')
 
 print('\ta\na\ta\ta\n\ta')
 
-rankaektes
+print("%d %100")
+print("%d %100.58")
+print("%d %100.69")
+print("%d %100.685")
