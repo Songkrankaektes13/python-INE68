@@ -8,7 +8,4 @@ print('/\\')
 
 print('\ta\na\ta\ta\n\ta')
 
-print("%d %100")
-print("%d %100.58")
-print("%d %100.69")
-print("%d %100.685")
+print("my age is" + srt('25') + "i have" + srt(3500.50)+"bth.")
