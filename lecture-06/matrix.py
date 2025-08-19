@@ -1,9 +1,11 @@
+#1
 matrix = [
     [1, 10, 3],
     [4, 5, 6],
     [7, 8, 9]
     ]
 
+#2
 matrix[0][1] = 10
 print(matrix)
 for row in matrix:
